@@ -1,11 +1,3 @@
-//
-//  WeatherModel.swift
-//  Clima
-//
-//  Created by Hamed Hashemi on 6/21/23.
-//  Copyright © 2023 App Brewery. All rights reserved.
-//
-
 import Foundation
 
 struct WeatherModel {
