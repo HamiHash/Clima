@@ -2,7 +2,7 @@
 
 ## About
 
-Simple weather app. You can enter any city name to get its current temperature, also it can get the user location with CoreLocation, and show the current temp.
+Simple weather app. You can enter any city name to get its current temperature, it can also get the user location with CoreLocation, and show the current temp.
 
 ## 
 
